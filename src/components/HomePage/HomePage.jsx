@@ -1,6 +1,7 @@
 import React from "react";
 import "./HomePage.css";
-import Rahilsardarresume from "./RahilSardar_RESUME.pdf"; // Import the CV file
+import Rahilsardarresume from "../../assets/cv/RahilSardar_RESUME.pdf"; // Import the CV file
+// import imag from "../../assets/img/IMG_2334.png"
 
 function Text() {
   // Function to handle download CV
